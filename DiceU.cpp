@@ -57,7 +57,7 @@ void mainpage() {
   std::cin.get();
   std::cout << "\033[2J\033[1;1H";
   std::cout << "Please select which dice you want." << std::endl;
-  std::cout << "1) Standard 6-sided dice\n2) 8-sided dice\n3) 10-sided dice\n4) 12-sided dice\n5) 20-sided dice";
+  std::cout << "1) Standard 6-sided dice\n2) 8-sided dice\n3) 10-sided dice\n4) 12-sided dice\n5) 20-sided dice" << std::endl;
   int diceInput;
   std::cin >> diceInput;
   if (diceInput == 1) {
