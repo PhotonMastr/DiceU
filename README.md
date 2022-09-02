@@ -45,9 +45,9 @@ or on windows
 
 Thanks for just trying it out and supporting my projects.
 
- 
-
-
+<h1>Extra Ideas</h1>
+<p>It might be a good idea to add DiceU as a bash, zsh, or fish alias on your computer if you actually plan on using it a lot on your computer (for some reason) you can just do this with the echo command</p> 
+<p>or on windows add a start menu shortcut to the .exe file<p>
 
 
 
