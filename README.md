@@ -11,6 +11,11 @@ git clone the repo with
 ```sh
 git clone https://github.com/photonmastr/diceu
 ```
+and cd into the directory
+
+```sh 
+cd DiceU
+```
 
 and then just install a c++ compiler like GCC or G++ and just compile and run it
 
