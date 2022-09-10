@@ -53,4 +53,6 @@ Thanks for just trying it out and supporting my projects.
 
 
 By the way, if you're wondering why i'm learning so many languages it's because I don't entirely know what language I want to settle on right now so I am just experimenting.
-NOTE not working on windows as of right now
+Real quick note:
+
+I thought it wasn't working on windows at first, turns out... for it to work you have to set your default terminal application to Windows Powershell or Windows Terminal. Google how to set that idk
