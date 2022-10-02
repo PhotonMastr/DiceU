@@ -1,3 +1,8 @@
+/* 
+Author: Tristan Faulkner
+Description: Spins a dice. Different types of dice such as 6 or 8 sided dice  
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
